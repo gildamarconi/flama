@@ -1,0 +1,262 @@
+/*---------reset-------------*/
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Shade&family=Inconsolata:wght@300&family=Nabla&family=Press+Start+2P&family=Rock+Salt&family=Rye&family=Schoolbell&family=UnifrakturMaguntia&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+.body{
+    width:100%;
+    height: 100vh;
+}
+
+/*---------inicio/producto/contacto/etc-------------*/
+
+
+
+
+/*---------enlaces-----------*/
+.body a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    display: inline-block;
+
+}
+/*---------cajas contenedoras-------------*/
+.body  ul li{
+    display: inline-block;
+    margin: 10px 15px;
+    display: flex;
+}
+
+
+
+    /*flexboox----------------------*/
+
+/*---------header-------------*/
+    /*! FLEX*/
+header{
+    background: rgb(161,117,166);
+    background: linear-gradient(90deg, rgba(161,117,166,1) 0%, rgba(116,169,188,1) 51%, rgba(70,220,209,1) 100%);
+    position: sticky;
+    top: 0px;
+
+}
+header nav {
+
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between; 
+    align-items: center;
+
+}
+header nav  ul{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between; 
+
+}
+
+header nav li a{
+    color: white;
+    font-family: 'Inconsolata', monospace;
+    display: inline-block;
+    
+
+}
+
+/*---------titulo-------------*/
+header h1{
+    font-size: 50px;
+    color:rgb(255, 255, 255);
+    font-weight: 180;
+    font-family: 'UnifrakturMaguntia', cursive;
+    
+}
+
+/*---------correo electronico-------------*/
+.correo {
+    font-family: 'Inconsolata', monospace;
+    color: rgb(243, 236, 236);
+    }
+.correo p{
+    display: inline-block;
+    font-weight: 600;
+
+}
+.correo a {
+    font-weight: 600;
+    color:white;
+    background-color: blueviolet;
+
+}
+/*---------hero-------------*/
+
+.hero{
+    text-align:right;
+    font-size: 50px;
+    font-family: 'Inconsolata', monospace;
+    color: white;
+    height: 400px;
+    width: 100%;
+    background-image: url(../Imagen/flama\ vela.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.tituloproducto{
+    font-size: 40px;
+    color:rgb(0, 0, 0);
+    font-weight: 100;
+    font-family: 'UnifrakturMaguntia', cursive; 
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+/*---------MAIN-------------*/
+.venta {
+
+    color: white;
+    background-color: rgb(228, 168, 236);
+    padding-bottom: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 75vh;
+    border:2px solid black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    flex-wrap: wrap;
+
+}
+
+
+/*!flex productos*/
+.tituloproducto{
+    text-align: center;
+}
+
+.productos{
+
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+
+
+
+}
+
+.ilustracion img{
+    border: 1px solid white;
+    width: 230px;
+    height:230px;
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+}
+
+.copas img{
+    border: 1px solid white;
+    width: 250px;
+    height:325px;
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+}
+.ceramica img{
+    border: 1px solid white;
+    width: 250px;
+    height:325px;
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+}
+.cubiertos img{
+    border: 1px solid white;
+    width: 250px;
+    height:325px;
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.manteles img{
+    border: 1px solid white;
+    width: 250px;
+    height:325px;
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+}
+
+.vela img{
+    border: 1px solid white;
+    width: 250px;
+    height:325px;
+    margin: 25px;
+    text-align: center;
+    display: inline-block;
+
+}
+.productos div a{
+    text-decoration: none;
+    background-color: darkmagenta;
+    padding: 5px 5px;
+}
+.productos div h3{
+    padding: 5px 5px;
+}
+
+.fixed{
+    position: fixed;
+    right: 50px;
+    bottom: 50px;
+}
+.fixed img{
+    width: 55px;
+    height: 55px;
+}
+
+
+
+
+
+/*---------Footer-------------*/
+footer{
+background: rgb(161,117,166);
+background: linear-gradient(90deg, rgba(161,117,166,1) 0%, rgba(116,169,188,1) 51%, rgba(70,220,209,1) 100%);
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+footer div h2{
+    font-size: 40px;
+    color:rgb(0, 0, 0);
+    font-weight: 100;
+    font-family: 'UnifrakturMaguntia', cursive; 
+    display: flex;
+    justify-content: center;
+}
+footer div img{
+    width: 40x;
+    height: 40px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+footer iframe{
+    width: 400px;
+    height: 100px;
+
+}

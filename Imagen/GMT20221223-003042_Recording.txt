@@ -1,0 +1,1089 @@
+00:53:14	Juan Sanchez:	Buenas noches
+00:53:27	Cesar Pérez:	buenas
+00:53:30	[Tutor] Roger Burbano:	Sii
+00:53:31	Julian Sosa:	si
+00:53:32	Oscar Rojas Bedoya:	Hola Profe!!!!
+00:53:33	Daniel Rojas González:	buenas buenas
+00:53:33	Robert Mendoza:	perfecto
+00:53:33	Sergio Vergara:	si
+00:53:33	Pablo Figueroa:	Fuerte y claro
+00:53:34	William Machado:	Si señor
+00:53:36	Nicolas Coria:	Buenas noches como vaa
+00:53:42	Bruno Roscino:	que tal buenas
+00:53:43	Erik Couto:	hola
+00:53:43	Sergio Vergara:	hola profe
+00:53:45	Christian Bustamante:	si se escucha
+00:53:47	Fiorella Azimonti Louro:	genialll
+00:53:47	Jonathan Carles Irigoitia:	onfire
+00:53:51	Christian Bustamante:	buenas
+00:53:54	Carlos Robles:	bueeeeeenas
+00:53:54	Christian Bustamante:	a full
+00:53:59	Nicolas Coria:	🤯
+00:54:05	gam.uve o:	hay que empezarlo 😬😬😬
+00:54:14	Fiorella Azimonti Louro:	el nombre
+00:54:15	[Coordi] Emanuel Foschi:	a ver aver
+00:54:16	Pablo Figueroa:	El nombre
+00:54:16	Jonathan Carles Irigoitia:	Los nombres
+00:54:16	Julian Sosa:	los nombrews
+00:54:17	William Machado:	Nombres
+00:54:17	Nicolas Coria:	el nombre
+00:54:17	Daniel Rojas González:	el nombre
+00:54:17	[Coordi] Emanuel Foschi:	bien
+00:54:18	Juan Sanchez:	ver el nombre
+00:54:18	Paola Rosales Calzado:	verificar nuestro nombre
+00:54:26	[Coordi] Emanuel Foschi:	verifiquen todos su nombre en zoom
+00:54:28	Robert Ramírez:	buenas
+00:54:32	Max Altamirano:	Holaa
+00:54:42	rigoberto ruiz:	holaa
+00:54:48	Gamarra Alexis:	gracias gaby
+00:54:59	Yamila Juarez:	holaaa
+00:55:11	Sebastián Illa:	Hola!
+00:55:14	Adrian Lucero:	asi es
+00:55:15	Erik Couto:	no se
+00:55:18	Leonel Villanova Zaccheo:	no
+00:55:20	Gilda Marconi:	NOP
+00:55:20	William Machado:	No he revisado
+00:55:21	Adrian Lucero:	jueves 27?
+00:55:21	William Machado:	voy
+00:55:21	Max Altamirano:	feriado el 27
+00:55:25	Gilda Marconi:	AHH ESO DEL FERIADO SI
+00:55:29	Nicolas Coria:	ni martes ni jueves
+00:55:39	Erik Couto:	no hay la semana entera?
+00:55:42	Lisandro Cruzado:	Profe usted da Java también?
+00:55:54	Leonel Villanova Zaccheo:	Mejor para repasar
+00:56:06	Gamarra Alexis:	ojalá nos de java el
+00:56:07	Carlos Rodriguez:	No tendremos clase? Recien entro y ya recibo un disparo al corazón.
+00:56:14	[Coordi] Emanuel Foschi:	aprovechen estos dias sin clases para practicar chicos
+00:56:20	Juan Allasia:	el proyecto lo entregamos cuando volvemos también?
+00:56:31	Juan Allasia:	gracias
+00:56:31	Gamarra Alexis:	mucha práctica compas
+00:56:34	Daniel Miranda:	buenas
+00:56:35	Nicolas Coria:	Creo que nos viene super bien entonces, tengo que repasar la clase anterior 😬
+00:56:39	Leonel Villanova Zaccheo:	para volver a mirar las clases por si te olvidaste algo
+00:56:41	Max Altamirano:	me paso de olvidarme todo cuando hice un curso hace dos años jaja
+00:56:45	Daniel Miranda:	tengo que meter mas repaso
+00:56:54	Mariano Carrique:	Profe el primer proyecto cuando se entregaría?
+00:56:56	Leonel Villanova Zaccheo:	estuvo buena
+00:57:06	Barbara Ini:	recién entro cdo no hay clase
+00:57:08	Barbara Ini:	¿
+00:57:15	[Tutor] Roger Burbano:	la otra semana
+00:57:18	Daniel Miranda:	el 27
+00:57:23	[Tutor] Roger Burbano:	el 3 de enero volvemos
+00:57:25	Mariano Carrique:	Oka
+00:57:28	Daniel Miranda:	gracias
+00:57:36	Barbara Ini:	perfecto gracias
+00:57:48	[Tutora] Mariana Servan:	La próxima semana no hay clases!!! Volvemos en Enero
+00:57:55	[Tutor] Roger Burbano:	👆
+00:57:55	[Tutora] Mariana Servan:	Se pasa volando
+00:58:15	Robert Ramírez:	☠️
+01:00:03	[Tutora] Mariana Servan:	Y paciencia !
+01:00:20	Ezequiel Quevedo:	forma de escribir
+01:01:17	[Tutor] Roger Burbano:	llorar y ctrl + z !!! =p
+01:01:27	Pablo Figueroa:	Jajajaja
+01:01:55	[Tutor] Roger Burbano:	Despues la satisfacción de que salio todo como se queria =)
+01:02:44	Carlos Rodriguez:	eso aplicaría para todos los h1?
+01:02:44	Angeles Orquera:	se
+01:02:45	Daniel Miranda:	bien
+01:02:46	Daniel Rojas González:	si super
+01:02:47	Robert Ramírez:	si
+01:02:56	Robert Mendoza:	el selector puede ser solo un item de los que conocemos o un ID Tambien?
+01:04:11	Pablo Figueroa:	Se puede asignar la cantidad de propiedades que quiera?
+01:04:47	[Coordi] Emanuel Foschi:	si pablo
+01:05:13	Robert Mendoza:	porque ya hay uno
+01:05:15	Jonathan Carles Irigoitia:	Es solo un H1 por doc
+01:05:17	Juan Pablo Iacaruso:	por que no es un titulo
+01:05:17	José Ignacio Jimenez:	solo uno se puede
+01:05:17	Fiorella Azimonti Louro:	solo puede haber uno
+01:05:18	Santiago Cortina:	Poque ya hay otro
+01:05:18	Maximiliano Gottig:	Poruq el h1 se unas una sola vez
+01:05:19	Lucas Barrionuevo:	porque ya hay uno
+01:05:19	William Machado:	Solo puede existir uno
+01:05:20	Mica Corvera:	por que no es primario?
+01:05:21	Daniel Miranda:	h2
+01:05:21	Maximiliano Gottig:	H2
+01:05:22	[Tutora] Mariana Servan:	🙌
+01:05:22	Robert Mendoza:	h2
+01:05:22	Lucas Barrionuevo:	h2
+01:05:23	Alan David Barcos:	h2
+01:05:24	Augusto Stang:	h2
+01:05:25	Mica Corvera:	h2
+01:07:09	Santiago Joaquin Rios:	no esta enlazado
+01:07:09	Alan David Barcos:	Porque tenemos que especificar la ruta
+01:07:13	Matias Valdez:	por que hay qyue indicar a que pagina va
+01:07:14	Cristian Lanza:	Porque no está iniciado en index.html.
+01:07:15	Matias Cusmai:	hay que linkear el css
+01:07:15	Lucas Barrionuevo:	no están entralazados
+01:07:16	Paola Rosales Calzado:	falta llamar al documento css en el documento html
+01:08:06	Max Altamirano:	./
+01:08:11	Santiago Joaquin Rios:	./css/style.css
+01:08:12	Pablo Figueroa:	./css/sytile.css
+01:08:16	Juan Pablo Iacaruso:	./css/css
+01:08:27	Max Altamirano:	magic
+01:08:27	Juan Pablo Iacaruso:	styleç
+01:09:48	[Tutora] Mariana Servan:	Esto está prohibido para sus proyectos 😂
+01:09:52	Pablo Figueroa:	Queda un archivo gigante
+01:10:09	Maximiliano Gottig:	Perdon, quiero poner h1 y me figura { expected
+01:10:34	Lautaro Serra:	../
+01:10:34	Jonathan Carles Irigoitia:	../
+01:10:34	Fiorella Azimonti Louro:	../
+01:10:35	Robert Mendoza:	../
+01:10:36	Carlos Robles:	../ css
+01:10:36	Pablo Figueroa:	../css/
+01:10:36	Lucas Barrionuevo:	../
+01:10:38	Juan Sanchez:	./
+01:10:53	[Tutora] Mariana Servan:	Maxi, en el css?
+01:11:29	Maximiliano Gottig:	Sí Mariana
+01:11:38	Silvia Andrada:	el link debe ir siempre entre los meta y el title???
+01:11:41	Max Altamirano:	con esto creariamos templates?
+01:11:47	Erik Couto:	y si quiero que el h1 de una pagina en particular sea distinto uso el style ?
+01:11:49	Barbara Ini:	No entendi como hacer la coneccion para que aparezca
+01:11:53	Juan Pablo Iacaruso:	perfecto
+01:11:58	Barbara Ini:	podes mostrar de nuevo¿
+01:12:07	Barbara Ini:	gracias
+01:12:47	Pablo Figueroa:	link
+01:12:50	Jonathan Carles Irigoitia:	la de linkear
+01:12:58	Uriel Eduardo Luis Santos:	Seria útil en una onepage?
+01:13:10	Leonel Villanova Zaccheo:	pero esta mal hacerlo asi?
+01:13:34	Carlos Robles:	Si es solo una página igual se lo debería trabajar así?
+01:13:50	Fiorella Azimonti Louro:	no
+01:13:51	Max Altamirano:	no
+01:13:51	Pablo Figueroa:	no
+01:13:51	Paola Rosales Calzado:	no
+01:13:53	Daniel Miranda:	es para que sea mas ordenado
+01:13:57	Bruno Roscino:	un choclo
+01:14:07	Paola Rosales Calzado:	y con un código grande se pierde
+01:14:09	Leonel Villanova Zaccheo:	claro es verdad
+01:14:16	Pablo Figueroa:	más organizado
+01:14:17	Juan Pablo Iacaruso:	más organizado
+01:14:20	[Tutor] Roger Burbano:	Siempre ser organizados
+01:14:22	Juan Pablo Iacaruso:	de una
+01:15:17	Robert Ramírez:	cheto
+01:16:44	Max Altamirano:	el link debe estar si o si en el head?
+01:17:52	Mica Corvera:	../
+01:18:05	Juan Pablo Iacaruso:	../
+01:18:15	Mica Corvera:	css/style.css
+01:18:41	Max Altamirano:	no
+01:18:44	Juan Pablo Iacaruso:	NOP
+01:18:47	Christian Bustamante:	todo de diez
+01:18:49	Juan Pablo Iacaruso:	todo ok
+01:18:55	Gamarra Alexis:	me aparece un error
+01:19:04	Gamarra Alexis:	expected
+01:19:07	Gamarra Alexis:	en el css
+01:19:15	Gamarra Alexis:	ahita
+01:19:17	Gamarra Alexis:	ahí esta
+01:19:18	Lucas Barrionuevo:	consulta al apretar enter h1 en el css no me tira  las llaves, las tengo que poner manual. eso esta ok?
+01:19:22	Gamarra Alexis:	muchas gracias!!!!
+01:19:35	Cesar Pérez:	sigo lo pasos pero no me cambia el color en la pagina ya actualice y guarde
+01:19:35	Lucas Barrionuevo:	Ok gracias
+01:19:44	Pablo Figueroa:	Se suele usar más de un archivo css?
+01:19:54	Pablo Figueroa:	oka
+01:20:06	Juan Alvarez Chacon:	que pasa si definimos dos tipos de estilos, cual tomaria digamos en el index definir x color y el style,css otro , cual toma o genera error?
+01:21:23	[Tutor] Roger Burbano:	Recuerden que va en cascada, va a tomar la ultima, ya el profe lo aclara mejor
+01:22:02	Daniel Rojas González:	si
+01:23:06	Mariano Carrique:	Lo bueno de tener todo ordenado
+01:23:46	Joel Perez:	si
+01:23:48	Paola Rosales Calzado:	si
+01:23:48	Juan Pablo Iacaruso:	sii
+01:23:48	Pablo Figueroa:	si
+01:23:49	Alan David Barcos:	Si profe
+01:23:59	Alan David Barcos:	h1 nav
+01:24:01	Max Altamirano:	nav
+01:24:01	Julian Sosa:	h1 nav ul
+01:24:01	Mica Corvera:	h1
+01:24:02	Juan Pablo Iacaruso:	hi-nav
+01:24:03	Valentín Ferrari:	h1 y nav
+01:24:03	Pablo Figueroa:	h1 nav
+01:24:04	Mica Corvera:	nav
+01:24:06	Max Altamirano:	ul
+01:24:06	Julian Sosa:	ul
+01:24:06	Mica Corvera:	ul
+01:24:06	Robert Mendoza:	ul
+01:24:07	Alan David Barcos:	ul
+01:24:07	Fiorella Azimonti Louro:	ul
+01:24:07	Valentín Ferrari:	ul
+01:24:07	Pablo Figueroa:	ul
+01:24:09	Joel Perez:	ul
+01:24:10	Juan Pablo Iacaruso:	ul
+01:24:10	Julian Sosa:	li
+01:24:10	Alan David Barcos:	li
+01:24:10	Robert Mendoza:	li
+01:24:10	Mica Corvera:	li
+01:24:11	Pablo Figueroa:	li
+01:24:11	Juan Pablo Iacaruso:	li
+01:24:11	Daniel Rojas González:	li
+01:24:11	Julian Sosa:	a
+01:24:12	Fiorella Azimonti Louro:	li
+01:24:12	Valentín Ferrari:	li
+01:24:14	Pablo Figueroa:	a
+01:24:15	Alan David Barcos:	a
+01:24:15	Robert Mendoza:	a
+01:24:15	Mica Corvera:	a
+01:24:15	Fiorella Azimonti Louro:	a
+01:24:16	Juan Pablo Iacaruso:	a
+01:24:16	Max Altamirano:	a
+01:24:16	Daniel Rojas González:	a
+01:24:21	Mica Corvera:	section
+01:24:21	Julian Sosa:	section
+01:24:21	Pablo Figueroa:	section
+01:24:21	Max Altamirano:	section
+01:24:23	Alan David Barcos:	los section
+01:24:23	Juan Pablo Iacaruso:	sectio0n
+01:24:24	Daniel Rojas González:	section
+01:24:28	Cesar Pérez:	section
+01:24:29	Alan David Barcos:	h2
+01:24:29	Cesar Pérez:	h2
+01:24:30	Alan David Barcos:	p
+01:24:30	Mica Corvera:	h2
+01:24:30	Julian Sosa:	h2 p
+01:24:30	Alan David Barcos:	a
+01:24:31	Pablo Figueroa:	h2 p a
+01:24:31	Fiorella Azimonti Louro:	h2 p a
+01:24:32	Mica Corvera:	p
+01:24:33	Cesar Pérez:	p
+01:24:33	Mica Corvera:	a
+01:24:35	Cesar Pérez:	a
+01:24:36	Juan Pablo Iacaruso:	h2-p-a
+01:24:41	Julian Sosa:	h2 div
+01:24:42	Cesar Pérez:	h2
+01:24:43	Alan David Barcos:	h2-div
+01:24:44	Max Altamirano:	div,h2
+01:24:45	Cesar Pérez:	div
+01:24:45	Pablo Figueroa:	h2 div
+01:24:50	Pablo Figueroa:	img h3 a
+01:24:50	Alan David Barcos:	img-h3
+01:24:51	Cesar Pérez:	img
+01:24:51	Julian Sosa:	img a p
+01:24:52	Alan David Barcos:	a
+01:24:52	Daniel Rojas González:	img h1 a
+01:24:52	Mica Corvera:	img h2 a
+01:24:54	Max Altamirano:	img,h3,a
+01:25:13	Daniel Rojas González:	img h3* a
+01:25:39	Pablo Figueroa:	con un id?
+01:25:41	Juan Pablo Iacaruso:	div?
+01:25:49	Santiago Joaquin Rios:	footer.h2?
+01:26:16	Max Altamirano:	con id no se puede no?
+01:26:28	[Tutora] Mariana Servan:	Si, calma! Ya lo veremos
+01:26:41	Matias Cusmai:	y si hay 2 h2? pero quiero de dos colores distintos?
+01:26:42	Mariano Carrique:	Muy bueno!
+01:26:46	Laura Ponzoni:	para hacer la ruta es separado con espacio nada mas? footer div h2?
+01:26:56	Laura Ponzoni:	gracias!
+01:27:05	Pablo Figueroa:	si
+01:27:08	Max Altamirano:	si
+01:27:08	Laura Ponzoni:	Si !
+01:27:08	Daniel Rojas González:	si si
+01:27:09	Juan Pablo Iacaruso:	si
+01:27:11	Juan Pablo Iacaruso:	super
+01:27:15	Robert Ramírez:	siiiiiiiiiiiiiiiiiiiiii
+01:27:15	Valentín Ferrari:	Si Gabigod
+01:27:18	[Tutora] Mariana Servan:	Ya vemos Mati como hacer eso más especifico
+01:27:19	Lucas Barrionuevo:	perfecto
+01:27:23	Sergio Vergara:	que pasa si hay dos rutas iguales
+01:27:29	Barbara Ini:	sin comas ni ada directo foto div
+01:27:32	Barbara Ini:	h2
+01:27:34	Barbara Ini:	¿
+01:27:59	[Tutora] Mariana Servan:	No entendí Barbara
+01:28:01	Ezequiel Quevedo:	ocurrio lo mismo
+01:28:03	Lucas Barrionuevo:	se aplico en todos
+01:28:05	Max Altamirano:	falto main
+01:28:06	Joel Perez:	te tomo todos los h2
+01:28:06	Pablo Figueroa:	todos los que cumplen con la misma ruta camban
+01:28:12	Juan Pablo Iacaruso:	por que están en una sección?
+01:28:14	Alan David Barcos:	Hay varias section
+01:28:15	Lucas Barrionuevo:	porque no tenes el div?
+01:28:19	Dixon Abreu:	no se especifico
+01:28:26	Barbara Ini:	para especificar  pones todo así directo sincopas ni nada
+01:28:29	Erik Couto:	habría que usar mas números de h?
+01:28:33	Joel Perez:	porq todos están adentro
+01:28:42	Joel Perez:	llamar clases
+01:29:17	Laura Ponzoni:	Barbara, pregunté lo mismo, se separan con espacio nada mas.
+01:29:25	Gamarra Alexis:	se pueden usar numeros tmb?
+01:29:30	Barbara Ini:	muchas gracias laura
+01:29:32	Matias Valdez:	hero 1
+01:29:45	Matias Cusmai:	bienvenidos?
+01:29:47	Cesar Pérez:	no espacios
+01:29:48	Fiorella Azimonti Louro:	sin mayus
+01:29:49	Juan Pablo Iacaruso:	sin mayusculas
+01:29:49	Pablo Figueroa:	sin espacios
+01:29:49	Daniel Miranda:	caracteres especiales
+01:29:50	Robert Mendoza:	sin espacios ni caracteres especiales
+01:29:50	Gamarra Alexis:	no mayus
+01:29:50	Laura Ponzoni:	sin espacios ni caracteres
+01:29:51	Cesar Pérez:	no caracteres
+01:29:51	Juan Pablo Iacaruso:	espacios
+01:29:51	Gamarra Alexis:	no mayusno caracteres
+01:29:51	Omar Gimenez:	bienvenida
+01:29:56	Santiago Joaquin Rios:	y referenciando el contenido dentro?
+01:30:12	Paola Rosales Calzado:	ok
+01:30:22	Valentín Ferrari:	productos
+01:30:23	Daniel Miranda:	productos
+01:30:23	Santiago Joaquin Rios:	productos
+01:30:24	Cesar Pérez:	productod
+01:30:25	Alan David Barcos:	productos
+01:30:34	Pablo Figueroa:	imagenes
+01:30:35	Alan David Barcos:	galeria
+01:30:36	Daniel Miranda:	imagenes
+01:30:49	[Tutora] Mariana Servan:	el nombre debe ser descriptivo o estar relacionado con lo que hago. No pongan clase1, clase2..
+01:31:01	Santiago Joaquin Rios:	es conveniente en lo posible intentar que las clases sean nombradas en ingles?
+01:31:14	Santiago Joaquin Rios:	genial
+01:31:15	Laura Ponzoni:	Las clases se pueden colocar tambien en los divs y demás elementos?
+01:31:23	[Tutora] Mariana Servan:	Si Lau!
+01:31:25	Daniel Miranda:	para ubicarse mas rápido ?
+01:31:30	[Tutora] Mariana Servan:	En todo o qe quieras
+01:31:30	Roberto Mancillas Martinez:	las clases son como una especie de id para CSS?
+01:31:35	Laura Ponzoni:	Gracias MArian!
+01:31:50	Paola Rosales Calzado:	si
+01:31:51	Lucas Barrionuevo:	Perfectoo
+01:31:53	Juan Pablo Iacaruso:	perfecto
+01:31:54	Matias Valdez:	genial super rapido
+01:31:55	Daniel Rojas González:	se entiende
+01:32:00	Lucas Barrionuevo:	Mucho mas rapido
+01:32:25	Robert Mendoza:	si claro
+01:32:26	Fiorella Azimonti Louro:	si
+01:32:28	Nicolas Coria:	si
+01:32:28	Cesar Pérez:	section 1
+01:32:29	Alan David Barcos:	Si
+01:32:30	Robert Mendoza:	fundad en 1800 no se cuanto
+01:32:57	Angeles Orquera:	ajsjajsja
+01:32:58	[Tutora] Mariana Servan:	Claaaaaro
+01:33:06	Daniel Miranda:	jajaa
+01:33:08	Joel Perez:	no
+01:33:08	Alan David Barcos:	Tiene que estar relacionado al contenido
+01:33:15	Alan David Barcos:	Un quilombo asi Jajaja
+01:33:16	[Tutora] Mariana Servan:	Nadie sabe señor de que esta hablando
+01:33:16	Lisandro Cruzado:	clarita la cuenta..
+01:33:23	Robert Ramírez:	k ha pasao
+01:33:23	Gamarra Alexis:	a una papa
+01:33:24	Leonel Villanova Zaccheo:	sos crack profe
+01:33:42	Juan Pablo Iacaruso:	clarísimo!
+01:34:03	Dixon Abreu:	los nombres de las paginas
+01:35:06	Alan David Barcos:	Si no colocamos el h2 afectaría a toda la section no?
+01:35:11	Max Altamirano:	profe consulta, porque en el ejemplo anterior utilizo footer div... y en este caso no uso main?
+01:35:40	Pablo Figueroa:	sii
+01:35:40	Juan Pablo Iacaruso:	si si
+01:35:42	Cristian Lanza:	Impecable.
+01:35:43	Duvan Montero Gutierrez:	si
+01:35:44	Alan David Barcos:	Sisi
+01:35:49	Gamarra Alexis:	mas que claro
+01:36:05	Robert Ramírez:	semantica
+01:36:09	Robert Mendoza:	separar el contenido principal de la pagian
+01:36:10	Lisandro Cruzado:	el contenido principal
+01:36:11	Alan David Barcos:	Es lo principal
+01:36:12	Daniel Rojas González:	el contenido principal
+01:36:12	Max Altamirano:	es todo el cuerpo
+01:36:13	Jonathan Carles Irigoitia:	Separar el contenido principal
+01:36:33	Nicolas Cortez:	justamente son secciones
+01:36:52	Jonathan Carles Irigoitia:	Profe que pasa si dentro de una sección tenemos dos H2 ?
+01:36:54	Max Altamirano:	entendido
+01:36:56	Carlos Rodriguez:	como especifico si tengo una section "productos" en varias paginas y quiero colores diferentes para cada una?
+01:37:08	[Coordi] Emanuel Foschi:	con distintas clases o id
+01:37:30	[Tutor] German Martinez Wald:	Con distintas clases Carlos podes hacerlo
+01:37:37	[Tutor] German Martinez Wald:	Le vas dando diferentes nombres de clase
+01:38:00	Juan Pablo Iacaruso:	agrego el class al H2
+01:38:42	Carlos Rodriguez:	ok gracias
+01:39:01	Pablo Figueroa:	si
+01:39:02	Daniel Miranda:	si
+01:39:03	Roberto Mancillas Martinez:	profe, una duda, es mala practica tener dos h2 dentro de el mismo hijo?
+01:39:13	Joel Perez:	seria darle un nombre
+01:39:13	Paola Rosales Calzado:	básicamente se diferencia con el atributo class
+01:39:20	Jonathan Carles Irigoitia:	Mi cerebro🤯
+01:39:23	Robert Mendoza:	ahi llamarias la clase del 2do h2 directamente? para darle formato
+01:39:24	Pablo Figueroa:	Cómo lo llamas en el css? .hero .otro?
+01:39:28	[Tutora] Mariana Servan:	Claro Pao
+01:39:31	Nicolas Cortez:	#GABITIPS
+01:39:39	Robert Ramírez:	XD
+01:39:53	[Tutora] Mariana Servan:	Llamas directamente la clase Pablo
+01:40:16	Pablo Figueroa:	Oka gracias
+01:40:40	Alan David Barcos:	Sería .hero .párrafo-red
+01:40:46	Lisandro Cruzado:	.párrafo-red {
+01:41:10	Juan Pablo Iacaruso:	claro tremendo
+01:41:17	Matias Cusmai:	y se puede cambiar color a una palabra del párrafo?
+01:41:31	Max Altamirano:	fuaa, se entiende pero miedo jaja
+01:41:32	Pablo Figueroa:	si
+01:41:35	Matias Cusmai:	si
+01:41:37	Joel Perez:	si
+01:41:44	[Tutor]Roger Burbano:	sin miedo al exito jajajajaja
+01:41:48	Julian Sosa:	se complica e
+01:42:13	Robert Ramírez:	si éxito al miedo
+01:42:15	Cesar Hernandez:	Nada puede malir sal
+01:42:31	Daniel Miranda:	las letras
+01:42:31	Julian Sosa:	barra nav
+01:42:32	Paola Rosales Calzado:	jajajja
+01:42:32	Jonathan Carles Irigoitia:	Los colores
+01:42:32	Carlos Robles:	el fondo
+01:42:33	Pablo Figueroa:	Cambia solo el contenido
+01:42:33	Juan Allasia:	colores
+01:42:33	Bruno Roscino:	fondo
+01:42:33	Alan David Barcos:	La paleta de colores
+01:42:34	Lucas Barrionuevo:	Los colores
+01:42:34	Carolina Brofman:	colores?ç
+01:42:35	Jonathan Carles Irigoitia:	el footer
+01:42:35	Roberto Mancillas Martinez:	el h1
+01:42:36	Cesar Pérez:	la transición
+01:42:37	Lucas Barrionuevo:	fondos
+01:42:41	Lisandro Cruzado:	el header y el footer
+01:42:44	Valentín Ferrari:	tiene una temática
+01:43:52	Pablo Figueroa:	pasa que en el css esta como .her
+01:43:53	Robert Mendoza:	el hero
+01:43:57	Pablo Figueroa:	.hero
+01:43:59	Sergio Vergara:	que pasa si hay dos rutas igualesno lo guardaste
+01:44:02	Cristian Lanza:	porque está en hero.
+01:44:02	Robert Mendoza:	lo llamaste por hero
+01:44:06	Sebastián Illa:	Por que tiene la clase Hero
+01:44:40	[Tutora] Mariana Servan:	Super importante, las pueden usar mil veces a las clases
+01:45:04	Pablo Figueroa:	optimizar el código
+01:45:11	[Tutora] Mariana Servan:	y también esto sirve para no escribir líneas y líneas repetidas
+01:45:11	[Coordi] Emanuel Foschi:	reutilizarlas si van a usar los mismos estilos se ahorran muchas lineas de codigo
+01:46:25	Alan David Barcos:	No no
+01:46:28	Pablo Figueroa:	todo joya por ahora
+01:46:30	Gamarra Alexis:	ninguna 
+01:46:33	Juan Pablo Iacaruso:	no todo joia
+01:46:36	Daniel Rojas González:	todoi claro
+01:46:50	Enzo Díaz Zingaretti:	EEE que sacaste en steam
+01:46:53	Max Altamirano:	sip jaja
+01:46:53	Robert Mendoza:	siii
+01:46:56	Gamarra Alexis:	si
+01:46:58	Paola Rosales Calzado:	si
+01:46:58	Max Altamirano:	el del footer
+01:46:59	Daniel Rojas González:	si+
+01:47:17	Robert Mendoza:	por eso preguntaba antes, no queria hacer spoilers jajajja
+01:47:39	Laura Ponzoni:	El id vendría a ser como más específico?
+01:47:41	Cristian Lanza:	#
+01:47:41	Lisandro Cruzado:	#
+01:47:41	Laura Ponzoni:	#
+01:47:43	Valentín Ferrari:	#
+01:47:44	Oscar Rojas Bedoya:	#
+01:47:44	Duvan Montero Gutierrez:	numeral
+01:47:46	Maria Laura Ortiz:	#
+01:48:23	[Tutora] Mariana Servan:	No, usen clases!!
+01:48:32	Joel Perez:	id sirve mas que nada para sql
+01:48:38	Joel Perez:	o bueno programacion
+01:48:44	[Tutor]Roger Burbano:	Javascript
+01:48:46	Valentín Ferrari:	que es único
+01:48:47	Daniel Miranda:	1 solo
+01:48:48	Paola Rosales Calzado:	es un identificador
+01:48:53	Paola Rosales Calzado:	el id
+01:49:18	[Tutor] German Martinez Wald:	El id generalente se utiliza para el contenedor general de una sección en especifico, y ese nombre de id no se puede repetir o es mala practica. En cambio las clases si se pueden repetir si quisieran darle los mismos estilos a otra parte del código.
+01:49:21	Matias Cusmai:	es super especifico
+01:49:32	Maria Laura Ortiz:	perf
+01:49:40	Juan Pablo Iacaruso:	ok
+01:50:05	Pablo Figueroa:	se puede dar varias class a una etiqueta?
+01:50:09	Alan David Barcos:	Profe lo que es animaciones en un sitio web también es con css?
+01:50:21	[Tutora] Mariana Servan:	Si Pablo
+01:50:27	Pablo Figueroa:	Buen
+01:50:32	Pablo Figueroa:	isimo
+01:50:35	[Tutora] Mariana Servan:	Si Alan, también lo vamos a ver
+01:50:45	Alan David Barcos:	Ok gracias!
+01:51:50	Alan David Barcos:	En la de coder profe
+01:52:05	Pablo Figueroa:	todos los h1
+01:52:06	Juan Pablo Iacaruso:	todos los h1
+01:52:06	Santiago Joaquin Rios:	etiqueta
+01:52:07	Robert Mendoza:	al h1
+01:52:08	Cesar Hernandez:	etiqueta
+01:52:09	Fiorella Azimonti Louro:	todos los h1
+01:52:11	Paola Rosales Calzado:	al elemento h1
+01:53:00	Matias Valdez:	toma como principal a las clases?
+01:53:01	Roberto Mancillas Martinez:	¿Se pueden usar mayusculas dentro de las clases?
+01:53:08	Alan David Barcos:	Profe con el concepto de las clases se pueden generar mas de un h1?
+01:53:18	Erik Couto:	tienen jerarquias?
+01:53:26	[Tutor]Roger Burbano:	mayúsculas es mejor no utilizar !
+01:53:28	Alan David Barcos:	Porque antes habíamos dicho que no solía haber mas de un h1
+01:53:28	Max Altamirano:	una clase tiene mayor jerarquia?
+01:53:30	Oscar Rojas Bedoya:	Hay jerarquias?
+01:53:33	Jonathan Carles Irigoitia:	Prioriza el ID
+01:53:55	Max Altamirano:	ya me perd;i
+01:53:58	Juan Pablo Iacaruso:	poir lo de cascada?
+01:53:58	Daniel Miranda:	flashero
+01:53:58	Carolina Brofman:	wtf
+01:54:00	Robert Ramírez:	K ESTA PASANDO AQUI
+01:54:06	Matias Cusmai:	se anula todo lo anterior?
+01:54:27	Daniel Miranda:	si si
+01:54:28	Max Altamirano:	si
+01:54:29	Lautaro Serra:	Sii
+01:54:30	Carolina Brofman:	ok
+01:54:30	Paola Rosales Calzado:	si
+01:54:31	Robert Ramírez:	ahhhh ok
+01:54:34	Matias Cusmai:	ok
+01:54:38	Jonathan Carles Irigoitia:	Necesito recreo
+01:54:38	Alan David Barcos:	Es buenísimo el gráfico Jajaja
+01:54:45	Christian Bustamante:	me mata el dibujito está buenisimo
+01:54:45	Juan Pablo Iacaruso:	🤩
+01:54:46	Roberto Mancillas Martinez:	el estilo inline es el que se pone dentro del h2??
+01:54:48	Ezequiel Quevedo:	🤣🤣
+01:54:49	Robert Mendoza:	si si si
+01:54:50	Daniel Rojas González:	jaja siii
+01:54:50	Jonathan Carles Irigoitia:	Si perfecto
+01:54:52	Robert Ramírez:	sususu
+01:54:53	Robert Ramírez:	sisi
+01:54:53	Adrian Lucero:	perfecto profe
+01:54:54	Juan Pablo Iacaruso:	si total
+01:54:54	Pablo Figueroa:	perfect
+01:54:58	Alan David Barcos:	Inline mata todo
+01:55:11	Daniel Miranda:	inline = ancho de espada
+01:55:14	Carolina Brofman:	jajajajaj
+01:55:14	Juan Pablo Iacaruso:	jaja
+01:55:18	Paola Rosales Calzado:	jajjajajaja
+01:55:21	Paola Rosales Calzado:	sii
+01:55:22	Matias Cusmai:	jajjajaja
+01:55:23	Juan Pablo Iacaruso:	durisimo
+01:55:28	Alan David Barcos:	Inline Messi
+01:55:35	Daniel Miranda:	jajaja
+01:55:51	Robert Mendoza:	clarisimo
+01:55:53	Carolina Brofman:	exc
+01:55:53	Robert Ramírez:	sisisisisisi
+01:55:53	Valentín Ferrari:	además de que aplicar estilos dentro del mismo HTML lo vuelve desordenado, no?
+01:55:53	Angeles Orquera:	stormtroopers infravalorados
+01:55:54	Christian Bustamante:	jajaa
+01:55:54	Matias Cusmai:	sisi
+01:55:54	Max Altamirano:	no clarito pero bueno jajaj
+01:55:55	Christian Bustamante:	si
+01:55:56	Daniel Miranda:	claro como el agua
+01:55:56	Paola Rosales Calzado:	sip
+01:55:58	Cesar Pérez:	claro como el agua
+01:55:58	Pablo Figueroa:	excelente
+01:55:59	Robert Ramírez:	a también canta el profe
+01:56:05	Laura Ponzoni:	Como se hace para transformar en comentario rapidamente algo en el CSS?
+01:56:06	Robert Ramírez:	un crack
+01:56:07	Carlos Robles:	Si capitán, estamos listos.
+01:56:08	Daniel Rojas González:	claro como el aqua
+01:56:25	Gamarra Alexis:	luego vean la grabación tmb, que sirve demasiado
+01:56:42	Juan Pablo Iacaruso:	si hay que repasar esta clase
+01:56:46	Alan David Barcos:	Yo la semana que viene aprovecho a ver todas las clases Jajajaj
+01:56:50	Carlos Rodriguez:	Rey, no nos sueltes la mano porque nos vamos a pique
+01:56:53	Daniel Miranda:	somos 2 alan
+01:56:56	Matias Cusmai:	😅👍
+01:56:56	Max Altamirano:	okas
+01:56:57	Robert Ramírez:	ya voy por la tercera taza de café
+01:56:58	Juan Pablo Iacaruso:	ok
+01:57:00	Cesar Pérez:	yo solo se que no me enlazo css con html
+01:57:05	Jonathan Carles Irigoitia:	Ya vengo voy a llorar
+01:57:09	Max Altamirano:	jaja
+01:57:12	Gamarra Alexis:	podemos escuchar Oliver tree?
+01:57:12	Maria Laura Ortiz:	jajajajajajajajajaja
+01:57:14	[Tutor]Roger Burbano:	jajajajjaaj
+01:57:14	Robert Mendoza:	no puedo creer que ya va la mitad de la claseeeeeee
+01:57:15	Christian Bustamante:	🤯🤯🤯
+01:57:16	Fiorella Azimonti Louro:	jajajaja
+01:57:17	Gamarra Alexis:	😬
+01:57:18	Valentín Ferrari:	jajajajjaajaja
+01:57:22	Robert Ramírez:	no css no cry
+01:57:25	Juan Pablo Iacaruso:	y para que parezcan mas lafggrimas
+01:57:28	Juan Pablo Iacaruso:	jejeç
+01:57:33	Maria Laura Ortiz:	ajjajajaja bueno
+01:57:34	Max Altamirano:	ya no te creo nada jaa
+01:57:43	Juan Pablo Iacaruso:	super
+01:57:44	Carolina Brofman:	okkk
+01:57:45	Daniel Rojas González:	si
+01:57:45	Carlos Rodriguez:	wiiiii
+01:57:46	Cristian Lanza:	Ok.
+01:57:47	Pablo Figueroa:	yo quiero saber cómo hacer la animación que hablamos el martes
+01:57:48	Pablo Figueroa:	jajaja
+01:57:49	Robert Ramírez:	20 min de break
+01:57:50	Maria Laura Ortiz:	okii
+01:57:59	Robert Ramírez:	eeee :(
+01:58:00	Juan Pablo Iacaruso:	yoga css?
+01:58:02	Juan Pablo Iacaruso:	existe?
+02:02:58	[Tutora] Mariana Servan:	Chiquis, estoy viendo ausente a : Guadalupe Pereyra Jaqueline MunozJimena Barreto VilcaJohanna MorenoAvisen si están!!
+02:04:06	Pablo Figueroa:	Los logos animados y ese tipo de cosas se hacen desde css o se arman por separado y se montan en la web?
+02:04:30	[Profe] Gabriel López:	Ambas
+02:04:34	[Profe] Gabriel López:	Se pueden desarrollar con código
+02:04:45	[Profe] Gabriel López:	y también se pueden armar por fuera con otras herramientas e incorporarlas
+02:05:08	Pablo Figueroa:	Todo se puede hacer de varias formas jeje
+02:05:16	[Profe] Gabriel López:	Chi
+02:06:01	Robert Mendoza:	Vamos Arcanee
+02:06:12	Julian Sosa:	QUE TEMONNNN
+02:06:26	Santiago Ordoñez:	Totalmente jaja
+02:06:27	Pablo Figueroa:	Al final del curso vamos a saber cómo subir la pag a internet? O es diseño solamente?
+02:06:28	[Tutor]Roger Burbano:	Ailen OjedaAna BerriocanalAna Román MartínezAna Patricia Roncal AlvaBruno Wong SaldiasCesar Alonso Azpeitia CeledonDalila Marcelo DaherDaniel HurtadoDaniel Zavaleta NuñezDaniela BurgosDiego ComesañaEduardo Andres Bravo AguileraFederico Vera
+02:06:41	[Tutor]Roger Burbano:	Si estan por favor Avisar =p
+02:06:48	[Profe] Gabriel López:	Si Pablin, al finalizar la cursada. Es una de las ultimas clases
+02:06:53	[Tutor]Roger Burbano:	Verifiquen los nombres !!
+02:07:15	Laura Ponzoni:	¿Cuál es el atajo para convertir en comentario de CSS algo ya escrito? O se hace siempre manual?
+02:07:36	[Profe] Gabriel López:	Seleccionas el bloque de codigo
+02:07:38	[Profe] Gabriel López:	y
+02:07:43	[Profe] Gabriel López:	ctrl + }
+02:07:47	Laura Ponzoni:	Genial! graciasss
+02:07:51	[Profe] Gabriel López:	Tanto en HTML como en CSS
+02:08:06	Laura Ponzoni:	buenisimooo
+02:08:12	[Profe] Gabriel López:	Termina el temon y arrancamos
+02:08:20	Pablo Figueroa:	voy a tener que cambiar el idioma al teclado xq no me toma las llaves
+02:08:34	Carolina Brofman:	yo tambien. no encuentro el asterico
+02:08:46	Bruno Roscino:	yo igual
+02:09:02	Juan Pablo Iacaruso:	temazo
+02:09:02	Fiorella Azimonti Louro:	sii
+02:09:04	Gamarra Alexis:	compás, como eran los comentarios de hmtl, lo tengo mal copiado parece jaja
+02:09:18	Leonel Villanova Zaccheo:	el tema del lol
+02:09:19	[Tutor] German Martinez Wald:	ctrl + k +c
+02:09:22	[Profe] Gabriel López:	<!-- -->
+02:09:24	[Tutor] German Martinez Wald:	para comentarios
+02:09:26	[Profe] Gabriel López:	/* */
+02:09:37	[Profe] Gabriel López:	cntrl + ]
+02:09:55	Gamarra Alexis:	graciass
+02:11:04	Robert Mendoza:	si si
+02:11:05	Daniel Rojas González:	si
+02:11:06	Maximiliano Gottig:	sí
+02:11:08	Carolina Brofman:	si
+02:11:11	Maria Morales:	si
+02:12:36	Juan Pablo Iacaruso:	sip
+02:12:41	Matias Valdez:	seria el alto o el largo esa medida
+02:12:46	Matias Valdez:	no dije nada
+02:14:20	Juan Pablo Iacaruso:	si
+02:14:20	Max Altamirano:	si
+02:14:52	Juan Pablo Iacaruso:	si
+02:14:53	Max Altamirano:	si
+02:14:54	Daniel Rojas González:	si
+02:14:54	Robert Ramírez:	siiiiiiiii
+02:14:57	Maria Morales:	sii
+02:15:49	Carlos Rodriguez:	veo que en el family hay varios tipos de fuente. Cual de ellas utiliza?
+02:16:03	Bruno Roscino:	profe como haces para que Chrome se actualize ni bien guardas el proyecto en visualstudio??
+02:16:44	Juan Pablo Iacaruso:	f5
+02:16:48	Bruno Roscino:	okiss
+02:16:58	Alan David Barcos:	Profe cuál sería la diferencia entre Font family y Font style?
+02:17:13	Alan David Barcos:	Ahhh ok
+02:17:25	Carlos Rodriguez:	veo que en el family hay varios tipos de fuente. Cual de ellas utiliza?
+02:17:27	Alan David Barcos:	No conocía el estilo italic
+02:17:33	Silvia Andrada:	de todas las letras de la family, como se cual uso?
+02:17:39	Alan David Barcos:	Joya
+02:17:43	Juan Pablo Iacaruso:	times new roman, trabalenguas
+02:17:48	Joel Perez:	weigth tamaño
+02:17:49	Juan Pablo Iacaruso:	jaja
+02:18:05	Joel Perez:	class
+02:18:06	Matias Valdez:	.hero
+02:18:07	Max Altamirano:	con una class
+02:18:08	Santiago Cortina:	class
+02:18:08	Carolina Brofman:	class
+02:18:09	Alan David Barcos:	.hero
+02:18:09	Carolina Brofman:	?
+02:18:13	Robert Ramírez:	.hero
+02:18:15	Alan David Barcos:	.hero h2
+02:18:15	Robert Mendoza:	.hero h2
+02:18:16	Bruno Roscino:	.hero h2
+02:18:17	Duvan Montero Gutierrez:	.heroh2
+02:18:17	Cesar Hernandez:	.hero h2
+02:18:18	Robert Ramírez:	.hero h2
+02:18:19	Santiago Cortina:	.hero h2
+02:18:23	Matias Valdez:	.hero h2 {}
+02:18:24	Juan Pablo Iacaruso:	.hero h2
+02:18:46	Juan Pablo Iacaruso:	magiaç
+02:18:46	Matias Valdez:	peeoooolaa
+02:19:03	Alan David Barcos:	Descubrí America
+02:19:29	Alan David Barcos:	main
+02:19:31	Matias Valdez:	main
+02:19:32	Erik Couto:	main
+02:19:34	Robert Mendoza:	main
+02:19:34	Robert Ramírez:	section
+02:19:35	Max Altamirano:	main
+02:19:37	Matias Cusmai:	main
+02:19:37	Jonathan Carles Irigoitia:	main
+02:19:37	Fiorella Azimonti Louro:	section
+02:19:37	Alan David Barcos:	hero
+02:19:37	Juan Pablo Iacaruso:	sectio class hero
+02:19:38	Oscar Rojas Bedoya:	hero
+02:19:39	Omar Gimenez:	hero
+02:19:39	Daniel Rojas González:	.hero
+02:20:05	Juan Pablo Iacaruso:	ah que bueno
+02:20:33	Robert Ramírez:	bkye
+02:20:34	Robert Ramírez:	bkye
+02:20:34	Robert Mendoza:	blue
+02:20:34	Lautaro Serra:	azul
+02:20:34	Pablo Figueroa:	blue
+02:20:35	Robert Ramírez:	blue
+02:20:36	Jonathan Carles Irigoitia:	blue
+02:20:38	Alan David Barcos:	Azul
+02:20:40	Juan Pablo Iacaruso:	blue
+02:20:51	Cristian Lanza:	blueviolet.
+02:20:51	Alan David Barcos:	Siempre va a aplicar el último
+02:20:52	Robert Ramírez:	si
+02:20:52	Carolina Brofman:	siempre es el ultim
+02:20:52	Juan Pablo Iacaruso:	blueviolet
+02:20:54	Jonathan Carles Irigoitia:	Aplica el ultimo
+02:21:07	Robert Ramírez:	cheto
+02:21:26	Laura Ponzoni:	Si ponemos uno mas general arriba y despues uno más especifico a un elemento dle genral de arriba, se aplciaría el ultimo igual, y al más especifico, verdad?
+02:21:40	Juan Pablo Iacaruso:	see
+02:21:41	Fiorella Azimonti Louro:	siiii
+02:21:41	Max Altamirano:	fuerte
+02:21:41	Robert Ramírez:	chi
+02:21:42	Angeles Orquera:	muy fea
+02:21:42	Fiorella Azimonti Louro:	jajajaja
+02:21:44	Cristian Lanza:	Ok....
+02:21:45	Erik Couto:	yo no jaja
+02:21:52	Cristian Lanza:	Jajaja.
+02:21:57	Laura Ponzoni:	genial, gracias
+02:21:57	[Tutora] Mariana Servan:	Nota aparte... Para los que no saben que tipografía elegir https://www.fontpair.co/ les ayuda a elegir tipografías que queden bien juntas
+02:22:35	Robert Ramírez:	header h1 nav li
+02:22:35	Joel Perez:	mariana lo dejarías en el chat porfa
+02:22:44	Gonzalo Lallana:	hay que ponerle una class a ese enlace
+02:22:44	Carlos Robles:	header nav ul li
+02:22:47	Carolina Brofman:	primer o nav
+02:22:49	Laura Ponzoni:	a
+02:22:51	Robert Ramírez:	e_e
+02:22:54	Matias Valdez:	header nav ul li a
+02:22:54	Juan Pablo Iacaruso:	.header nav ul li
+02:23:24	Matias Valdez:	le tendria que poner una class a cada a?
+02:23:26	Alan David Barcos:	El punto no va porque no es una clase no?
+02:23:35	Matias Valdez:	para llamarlo por separado
+02:23:37	Juan Pablo Iacaruso:	ah okaç
+02:23:38	Daniel Rojas González:	no porque es etiqueta no clase
+02:23:43	Matias Valdez:	ahh okey
+02:24:04	[Tutor] German Martinez Wald:	Vamos bien?
+02:24:14	Alan David Barcos:	Noo horrible
+02:24:17	Alan David Barcos:	Jajaja
+02:24:24	Robert Ramírez:	none
+02:24:33	Paola Rosales Calzado:	genial
+02:24:36	Alan David Barcos:	El doublé por que no se ve?
+02:24:45	Pablo Figueroa:	elimina el subrayado noventoso ese!
+02:24:48	Robert Ramírez:	UL
+02:24:49	Daniel Rojas González:	li
+02:24:50	Juan Pablo Iacaruso:	ol
+02:24:51	Carolina Brofman:	ul
+02:24:52	Paola Rosales Calzado:	el ul
+02:24:52	Omar Gimenez:	ul
+02:24:55	Juan Pablo Iacaruso:	ul
+02:25:01	Alan David Barcos:	header nav ul
+02:25:03	Carlos Robles:	header nav ul
+02:25:06	Robert Ramírez:	header nav ul
+02:25:36	Mariano Carrique:	Muy bueno!
+02:25:36	Robert Ramírez:	precioso
+02:25:40	Juan Pablo Iacaruso:	hermoo
+02:25:41	Omar Gimenez:	felicidad
+02:25:41	Daniel Rojas González:	bueeeeno
+02:25:48	Paola Rosales Calzado:	que bonito
+02:26:09	Alan David Barcos:	Profe como se colocaría cada opción del índice uno al lado del otro?
+02:26:29	Alan David Barcos:	Oka
+02:26:29	[Profe] Gabriel López:	https://fonts.google.com/
+02:27:11	Carolina Brofman:	siis
+02:27:12	Jonathan Carles Irigoitia:	Si
+02:27:18	Max Altamirano:	cursiva
+02:27:20	Carolina Brofman:	weigth
+02:27:21	Alan David Barcos:	Al style
+02:27:21	Robert Mendoza:	al formato de css
+02:27:23	Mica Corvera:	cursiva?
+02:27:23	Cristian Lanza:	style
+02:27:25	Matias Valdez:	font style
+02:27:28	Omar Gimenez:	se puede llamar en el Font stile?
+02:27:30	Max Altamirano:	px
+02:27:31	Jonathan Carles Irigoitia:	tamaño?
+02:27:32	Juan Pablo Iacaruso:	al px
+02:27:32	Alan David Barcos:	A los pixeles
+02:27:33	Carolina Brofman:	ese si
+02:27:33	Bruno Roscino:	size
+02:27:33	Fiorella Azimonti Louro:	Font size
+02:27:33	Cristian Lanza:	grosor
+02:27:36	Robert Mendoza:	weight
+02:27:37	Cesar Hernandez:	weigth
+02:27:38	Carolina Brofman:	weight
+02:28:29	Juan Pablo Iacaruso:	Font family aparecería?
+02:28:33	Juan Pablo Iacaruso:	en el
+02:28:38	Juan Pablo Iacaruso:	oka
+02:28:44	Jonathan Carles Irigoitia:	pero es weight black 900
+02:28:47	Jonathan Carles Irigoitia:	o weight 900
+02:28:54	Robert Mendoza:	y no seria mejor descarcas todas las opciones y luego decider en css?
+02:29:26	Alan David Barcos:	Entonces cada una de esas fuentes estaría de una fuente general? Poppins digo
+02:29:30	Juan Pablo Iacaruso:	tal cual
+02:29:31	Robert Mendoza:	ok ok
+02:29:32	Pablo Figueroa:	menos es más
+02:29:35	Alan David Barcos:	Estaría dentro*
+02:29:37	Robert Ramírez:	gabitips GOD
+02:29:48	Jesica Rodriguez:	ahí te muestra como quedaría exactamente en un px de 48
+02:30:29	Max Altamirano:	fraime
+02:30:32	Pablo Figueroa:	inframe
+02:30:33	Robert Mendoza:	al link de css conel html
+02:30:39	Duvan Montero Gutierrez:	cuando se vincula CSS
+02:30:39	Fiorella Azimonti Louro:	link:css
+02:30:39	Omar Gimenez:	un enlace
+02:30:42	Juan Pablo Iacaruso:	linkear los documentos
+02:30:48	Carolina Brofman:	claaro
+02:30:53	Robert Ramírez:	XD
+02:31:09	Gonzalo Lallana:	importantisima
+02:31:33	Matias Valdez:	el css
+02:31:33	Robert Mendoza:	el css
+02:31:34	Max Altamirano:	ccs
+02:31:34	Fiorella Azimonti Louro:	css
+02:31:34	Camila Lopez Giornes:	css
+02:31:35	Pablo Figueroa:	css
+02:31:35	Daniel Rojas González:	css
+02:31:38	Juan Pablo Iacaruso:	style.css
+02:32:51	Juan Pablo Iacaruso:	si quiero usar 4 fuentes distintas de google fonts copio todas a continuacion?
+02:33:01	Juan Pablo Iacaruso:	sumando genial
+02:33:14	Paola Rosales Calzado:	body
+02:33:16	Robert Ramírez:	style
+02:33:20	Robert Ramírez:	XD
+02:33:24	Alan David Barcos:	Y como uso una fuente específica de las que descargué?
+02:33:30	Robert Mendoza:	a body
+02:33:31	Daniel Rojas González:	a body
+02:33:32	Max Altamirano:	body
+02:33:33	Juan Pablo Iacaruso:	body
+02:33:53	Max Altamirano:	god
+02:33:56	Matias Valdez:	nice
+02:33:57	Paola Rosales Calzado:	bonito
+02:34:02	Juan Pablo Iacaruso:	ah perfecto de esa manera toda la tipografia homogeeo
+02:34:06	Juan Pablo Iacaruso:	homognea
+02:34:34	Juan Pablo Iacaruso:	super
+02:34:48	Alan David Barcos:	Profe lo que descargamos serían varias fuentes o una sola entonces?
+02:34:49	Max Altamirano:	bien si
+02:34:49	Cristian Lanza:	Bien, bien.
+02:34:50	Robert Mendoza:	perfecto
+02:34:51	Paola Rosales Calzado:	si
+02:34:53	Alan David Barcos:	Esa parte no entendí
+02:34:55	Matias Valdez:	pesadito pero entendible
+02:34:56	Carolina Brofman:	medio atrasada.
+02:34:59	Joel Perez:	si
+02:35:15	Gamarra Alexis:	excelente su paciencia y forma de explicar profe!!
+02:35:16	Alan David Barcos:	Como usaría una especifica?
+02:35:16	Daniel Rojas González:	bien bien hay que siempre repasar cuando se pueda
+02:35:33	Alan David Barcos:	Ahh entiendo
+02:35:50	Alan David Barcos:	Seria como ampliar límites
+02:36:01	Juan Pablo Iacaruso:	fondos
+02:36:01	Max Altamirano:	findo
+02:36:03	Paola Rosales Calzado:	fonods
+02:36:42	Robert Ramírez:	class
+02:36:47	Juan Pablo Iacaruso:	a
+02:36:49	Cesar Pérez:	div
+02:36:53	Jonathan Carles Irigoitia:	footer div img
+02:36:57	Max Altamirano:	footer div h2 a img
+02:37:00	Robert Ramírez:	aaaaaaaaaaaaaaaaaaa
+02:37:02	Daniel Rojas González:	footer div img
+02:37:42	Hector Castro:	Nos ha salvado estamos agradecidos
+02:37:45	Jonathan Carles Irigoitia:	Estaba esperando con ansias ese truco
+02:37:47	Cesar Pérez:	que elegancia la de francia
+02:37:51	Max Altamirano:	amazing
+02:37:54	Juan Pablo Iacaruso:	jaja
+02:37:54	Joel Perez:	bn
+02:37:54	Matias Valdez:	con el mapa lo mismo?
+02:37:59	Juan Pablo Iacaruso:	muy tremendo
+02:38:17	Matias Valdez:	perfecto
+02:38:23	Angeles Orquera:	y no las puedo modificar desde ahí?
+02:38:24	Matias Valdez:	gracias!
+02:38:25	Alan David Barcos:	No se puede modificar directamente en el HTML?
+02:38:32	Gonzalo Lallana:	y si las cambiamos en el HTML?
+02:38:37	Alan David Barcos:	Ok
+02:38:41	Gonzalo Lallana:	ok
+02:38:42	Jonathan Carles Irigoitia:	Vagos quieren atajo
+02:38:47	Robert Ramírez:	XDD
+02:38:51	Angeles Orquera:	xdd
+02:38:54	Alan David Barcos:	Jajajaj
+02:39:10	Jonathan Carles Irigoitia:	Body?
+02:39:11	Juan Pablo Iacaruso:	al body
+02:39:15	Angeles Orquera:	head
+02:39:15	Carlos Robles:	header
+02:39:16	Alan David Barcos:	header
+02:39:17	Cesar Pérez:	header
+02:39:18	Carlos Robles:	footer
+02:39:18	Cristian Lanza:	footer y header.
+02:39:18	Carolina Brofman:	header?
+02:39:20	Juan Pablo Iacaruso:	header
+02:39:22	Juan Pablo Iacaruso:	y footer
+02:39:23	Robert Ramírez:	e.e
+02:39:24	Jonathan Carles Irigoitia:	Ps claro
+02:39:27	Juan Pablo Iacaruso:	jaj
+02:39:51	Juan Pablo Iacaruso:	letras en blanco
+02:39:51	Matias Valdez:	guuuaaaoooo
+02:39:55	Alan David Barcos:	De otro color
+02:40:04	Dixon Abreu:	cheto
+02:40:09	Juan Pablo Iacaruso:	hermoso
+02:40:15	Paola Rosales Calzado:	sip
+02:40:17	Max Altamirano:	sip
+02:40:22	Juan Pablo Iacaruso:	márgenes?
+02:40:28	Paola Rosales Calzado:	margin
+02:40:33	Juan Pablo Iacaruso:	ok
+02:40:37	Cesar Pérez:	como se alinea el menu ??
+02:40:45	Robert Ramírez:	margin y padding ☠️☠️
+02:40:49	[Tutora] Mariana Servan:	uuuuuhhh falta para eso
+02:40:55	[Tutora] Mariana Servan:	tranqui cesar!
+02:40:59	[Tutora] Mariana Servan:	ya lo veremos
+02:41:07	Cesar Pérez:	ah listo lo pense recien
+02:41:10	Juan Pablo Iacaruso:	aguaç
+02:41:12	Robert Ramírez:	XDD
+02:41:12	Paola Rosales Calzado:	jajajja
+02:41:12	Juan Pablo Iacaruso:	jaja
+02:41:15	Paola Rosales Calzado:	tome aguita
+02:41:18	Angeles Orquera:	awita
+02:41:22	Matias Valdez:	llamen al same
+02:41:28	Robert Ramírez:	911
+02:42:46	Valentín Ferrari:	sería un selector universal, cierto?
+02:42:49	Paola Rosales Calzado:	si
+02:42:53	Juan Pablo Iacaruso:	definimos nosotros el que queremos luego
+02:42:57	Juan Pablo Iacaruso:	genial
+02:43:05	Alan David Barcos:	El padding que era?
+02:43:20	Alan David Barcos:	Bueno
+02:43:44	Alan David Barcos:	Un hambre
+02:45:51	[Tutora] Mariana Servan:	Presentación de la web
+02:46:36	Robert Mendoza:	.hero
+02:46:36	Carolina Brofman:	. hero?
+02:46:41	Gonzalo Lallana:	.hero
+02:46:41	Max Altamirano:	.hero
+02:46:42	Juan Pablo Iacaruso:	.hero
+02:46:42	Jonathan Carles Irigoitia:	Ya murió mi cerebro
+02:46:47	Paola Rosales Calzado:	.hero
+02:46:54	Cesar Pérez:	ya me perdi, se me apago la pc
+02:47:04	[Tutora] Mariana Servan:	Aguantemos un ratito mas! Ya terminamos!!
+02:47:09	[Tutor]Roger Burbano:	jajajajaj
+02:47:17	[Tutor]Roger Burbano:	vamos que si se puede
+02:47:19	[Tutor]Roger Burbano:	=p
+02:47:20	Fiorella Azimonti Louro:	../
+02:47:20	Jonathan Carles Irigoitia:	../
+02:47:21	Lautaro Serra:	../
+02:47:21	Alan David Barcos:	../
+02:47:28	Omar Gimenez:	../img/
+02:47:28	Bruno Roscino:	../img
+02:47:29	Max Altamirano:	../img
+02:47:30	Alan David Barcos:	img
+02:47:34	Marcelo Leon:	img
+02:47:34	Juan Pablo Iacaruso:	../img
+02:48:04	Marcelo Leon:	si
+02:48:05	Carolina Brofman:	sii
+02:48:09	Alan David Barcos:	Sii
+02:48:09	Paola Rosales Calzado:	si
+02:48:19	Paola Rosales Calzado:	widht
+02:48:20	Cesar Hernandez:	height
+02:48:21	Robert Ramírez:	wieifh
+02:48:22	Paola Rosales Calzado:	height
+02:48:22	Valentín Ferrari:	width y height
+02:48:23	Cesar Hernandez:	weight
+02:49:32	Juan Allasia:	main
+02:50:02	Carolina Brofman:	exc
+02:50:12	Paola Rosales Calzado:	como alinea el texto justo en medio
+02:50:22	Max Altamirano:	me perdi, porque 700
+02:50:49	Alan David Barcos:	Como lo alineamos con la imagen?
+02:50:50	[Tutora] Mariana Servan:	text-align: center
+02:51:06	Paola Rosales Calzado:	pero esta muy arriba
+02:51:06	[Tutora] Mariana Servan:	👆 Pao
+02:51:12	Alan David Barcos:	Si
+02:51:14	Paola Rosales Calzado:	si
+02:51:54	Carolina Brofman:	si
+02:51:54	Marcelo Leon:	si
+02:51:56	Juan Saavedra:	sip
+02:52:42	Maximiliano Gottig:	Hay alguna spec para el tamaño de la imagen?
+02:52:59	Marcelo Leon:	hay que volver a extender los lados??
+02:53:23	Omar Gimenez:	lo estira o le hace zoom?
+02:53:57	Paola Rosales Calzado:	a que se refiere con que la imagen se repetia, para que sirve el background-repeat?
+02:54:10	[Tutor]Roger Burbano:	no repeat
+02:54:17	Joel Perez:	para que no se ponga en mosaico
+02:54:27	[Tutor]Roger Burbano:	exacto
+02:54:33	Lautaro Serra:	La imagen si no cubre toda la pagina se repite para tapar la seccion
+02:54:37	Paola Rosales Calzado:	ok gracias
+02:55:09	Robert Ramírez:	si
+02:55:10	Max Altamirano:	si
+02:55:39	Fiorella Azimonti Louro:	epicoooo
+02:55:42	Paola Rosales Calzado:	que xvrrr
+02:55:42	Daniel Rojas González:	waaaaaa
+02:55:42	Juan Pablo Iacaruso:	muyn buen0
+02:55:45	Duvan Montero Gutierrez:	owww
+02:55:46	Bruno Roscino:	🙀
+02:55:47	Paola Rosales Calzado:	me encantó
+02:55:51	Max Altamirano:	queda anclada la imagen
+02:55:54	Robert Ramírez:	cheto
+02:55:54	Robert Mendoza:	la que hace que se ajuste al tamano de la pantalla cuando la cambias de tamano es  el Cover??
+02:55:54	Omar Gimenez:	eso es el paralax?
+02:55:55	Matias Valdez:	radical
+02:55:58	Sergio Vergara:	buenisimo
+02:56:01	Valentín Ferrari:	una persianita
+02:56:08	Maria Morales:	muy bueno...
+02:56:09	Mariano Carrique:	Podras repetir esa ultima please?
+02:56:30	Pablo Figueroa:	Se hace así xq el tamaño que le diste es más chico al tamaño de la imagen?
+02:56:33	Robert Mendoza:	ok ok ok
+02:57:16	Paola Rosales Calzado:	perfectp!
+02:57:17	Alan David Barcos:	Que otros efectos hay profe?
+02:57:18	Mariano Carrique:	Un éxito profe!
+02:57:25	Gonzalo Lallana:	muy bueno
+02:57:25	Matias Valdez:	que otros atachment hay?
+02:57:29	Juan Pablo Iacaruso:	eso con un video
+02:57:31	Juan Pablo Iacaruso:	la gloria
+02:57:36	Paola Rosales Calzado:	asi de claro su explicación 5 de 5
+02:57:41	Matias Valdez:	genial
+02:57:51	[Tutor]Roger Burbano:	Jueguen y prueben todo, practicar =p
+02:57:54	Erik Couto:	gracias profe
+02:57:57	Fiorella Azimonti Louro:	muy buenoo
+02:57:59	Paola Rosales Calzado:	ay que pena
+02:57:59	Mica Corvera:	matada
+02:58:00	Juan Pablo Iacaruso:	que buena clase
+02:58:02	Gamarra Alexis:	a jugar pes 6 ahora :b
+02:58:03	Gonzalo Lallana:	genial profe
+02:58:03	Daniel Rojas González:	bueniisima
+02:58:04	Cesar Pérez:	el tamaño del fondo de la imagen importa ??
+02:58:04	Joel Perez:	finde de practica
+02:58:05	Robert Ramírez:	siiiiiiiiiiiiiiiiiiiiii
+02:58:05	Paola Rosales Calzado:	se estaba poniendo divertido
+02:58:05	Robert Mendoza:	buenisiimaaaaaaaaaa
+02:58:06	Leonel Villanova Zaccheo:	que tenga feliz navidad profe
+02:58:06	Gamarra Alexis:	buenísima profe
+02:58:06	Sergio Vergara:	mucha magia
+02:58:07	Maria Constanza Bosio:	zarpado clase
+02:58:07	Fiorella Azimonti Louro:	siiii
+02:58:09	Gamarra Alexis:	excelente todo
+02:58:09	Alan David Barcos:	Necesito un cerebro nuevo
+02:58:10	Matias Valdez:	linda clase proge gracias
+02:58:11	Carlos Robles:	Muchísimas gracias profe, muy buena clase
+02:58:13	Robert Mendoza:	necesito 10 mas jajajajaja
+02:58:13	Joel Perez:	bien buenisima
+02:58:14	Gonzalo Lallana:	a practicar nomas
+02:58:14	Alejandro Rodriguez Rego:	A practicar ahora
+02:58:15	Max Altamirano:	me gusto, ahora voy a soñar con todo jaja
+02:58:16	Alan David Barcos:	Pero buenísima
+02:58:17	Maximiliano Gottig:	Muy buena!
+02:58:20	Robert Mendoza:	muchisimas gracias gaby!
+02:58:22	Maria Morales:	espectacular..
+02:58:23	Juan Pablo Iacaruso:	mejor mucho para digerir
+02:58:24	Mica Corvera:	una clase mejor que la otra
+02:58:24	Joel Perez:	ya estoy armando de a poco la pagina
+02:58:27	Leonel Villanova Zaccheo:	que tengas feliz navidad profe♥♥♥♥
+02:58:31	Gamarra Alexis:	feliz navidad y año nuevo a todos
+02:58:32	Gonzalo Lallana:	chau profe felices fiestas
+02:58:33	[Tutor] German Martinez Wald:	Felices fiestas para todos, buen cierre de año!
+02:58:35	Gamarra Alexis:	<33
+02:58:38	Cesar Pérez:	el tamaño del fondo de la imagen importa ??
+02:58:39	Juan Pablo Iacaruso:	que bueno ese budín de la foto
+02:58:40	Alan David Barcos:	Felices fiestas profeeee
+02:58:41	Laura Ponzoni:	Gracias! Muy felicez fiestas para todxs.
+02:58:43	Mica Corvera:	felices fiestas profe <3
+02:58:44	Fiorella Azimonti Louro:	buenas noches y felices fiestas <3
+02:58:45	Camila Lopez Giornes:	Felices fiestas!! 🥰
+02:58:46	Angeles Orquera:	Felices fiestas muchachos
+02:58:50	[Tutora] Mariana Servan:	Felices fiestaaaas 🥰
+02:58:53	Valentín Ferrari:	Felices fiestas profe, gracias!!
+02:58:54	[Tutora] Mariana Servan:	practiqueeen
+02:58:54	Pablo Figueroa:	Felices fiestas a todos!!!!!
+02:58:54	Hector Castro:	Feliz Navidad y prospero año!
+02:58:55	Marcelo González Quevedo:	felices fiestasss
+02:58:55	Maximiliano Gottig:	Felicidades!1!!!
+02:58:56	Lautaro Serra:	felices fiestas
+02:58:56	Max Altamirano:	felices fiestas
+02:58:57	Joel Perez:	igual para todos felices fiestas
+02:58:58	Marcelo González Quevedo:	nos vemos en enero señores
+02:58:58	Max Altamirano:	byeeee
+02:58:58	Alan David Barcos:	Nos vemos el año que viene
+02:58:58	Paola Rosales Calzado:	Profesor Gaby, tutortes, coordi y todos feliz navidad!!!! feliz año 2023
+02:59:01	Carlos Robles:	Felices fiestaaaaaaaas !!!!
+02:59:01	Alan David Barcos:	Cuek
+02:59:01	Carolina Brofman:	felicidadessssss
+02:59:02	Santiago Cortina:	Buenas noches, felices fiestas!
+02:59:04	Juan Britez:	felices fiestas
+02:59:04	Joel Perez:	profe no valore la pasada :S
+02:59:04	[Tutor]Roger Burbano:	Saludos y feliz navidad
+02:59:07	Robert Mendoza:	si, se valora
+02:59:07	Matias Cusmai:	felices fiestas!
+02:59:08	Marcelo Leon:	felices fiestas para todos!!!
+02:59:09	Robert Ramírez:	feliz navidad
+02:59:09	Robert Mendoza:	ya me sale
+02:59:13	Robert Ramírez:	felices fiestasssssssssssssss
+02:59:15	Max Altamirano:	okay
+02:59:15	Cesar Pérez:	🙃
+02:59:16	Robert Ramírez:	♥
+02:59:20	Mariano Carrique:	Felices fiestas Gabi!
+02:59:21	Sergio Vergara:	felices fiestas¡¡¡¡ profe un placer cursar con vos
+02:59:22	Santiago Ordoñez:	Felices fiestas para todos
+02:59:24	Daniel Rojas González:	felices fiestas a todos
+02:59:25	Juan Pablo Iacaruso:	abrazo!
+02:59:26	Santiago Ordoñez:	Buenas noches
+02:59:27	[Tutora] Mariana Servan:	bye 🥰
+02:59:27	[Tutor]Roger Burbano:	Saludos
+02:59:29	Bruno Roscino:	Gracias igualmente!
+02:59:30	Robert Ramírez:	gabifiestas
+02:59:31	Favio Sandy Gonzales:	adiosss
+02:59:31	Alan David Barcos:	Felices fiestas a todos!!
+02:59:31	Juan Saavedra:	felices fiestas a todos, buenas nochezzz
+02:59:33	[Tutor]Roger Burbano:	byeee
+02:59:33	Roberto Mancillas Martinez:	Felices fiestas!
+02:59:34	Maria Morales:	Felices Fiestas...
+02:59:35	Adrian Lucero:	cha profe
+02:59:35	Roberto Mancillas Martinez:	saludos!
+02:59:37	Joel Perez:	podría valorar hoy la del martes
