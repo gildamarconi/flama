@@ -10,110 +10,101 @@
     height: 100vh;
 }
 
-/*---------inicio/producto/contacto/etc-------------*/
-
-
-
-
-/*---------enlaces-----------*/
-.body a{
-    text-decoration: none;
-    color: white;
-    font-family: 'Inconsolata', monospace;
-    display: inline-block;
-
-}
-/*---------cajas contenedoras-------------*/
-.body  ul li{
-    display: inline-block;
-    margin: 10px 15px;
-    display: flex;
-}
-
-
-
-    /*flexboox----------------------*/
-
 /*---------header-------------*/
     /*! FLEX*/
 header{
-    background: rgb(161,117,166);
-    background: linear-gradient(90deg, rgba(161,117,166,1) 0%, rgba(116,169,188,1) 51%, rgba(70,220,209,1) 100%);
-    position: sticky;
+    height: 78px;
+    width: 100%;
+    background: linear-gradient(90deg, #a175a6 0%, rgba(116,169,188,1) 51%, rgba(70,220,209,1) 100%);
+    position: fixed;
     top: 0px;
+}
+
+.header {
+height: 80px;
+width: 100%;    
+justify-items: center;
+justify-content: center;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
 
 }
-header nav {
 
-    display:flex;
+
+
+/*---------opciones-------------*/
+.opciones {
+    width: 30%;
+
+
+}
+.opciones ul{
+    display: flex;
     flex-direction: row;
-    justify-content: space-between; 
-    align-items: center;
-
-}
-header nav  ul{
-    display:flex;
-    flex-direction: row;
-    justify-content: space-between; 
+    justify-content: space-evenly;
+    flex-wrap: wrap;
 
 }
 
-header nav li a{
-    color: white;
-    font-family: 'Inconsolata', monospace;
+.opciones ul li{
     display: inline-block;
     
+}
+/*---------transiton nav-------------*/
+
+.inicio-trasition{ 
+    transition: 2s;
 
 }
+.inicio-trasition:hover{
+    transform: scale(1.5);
 
-/*---------titulo-------------*/
-header h1{
-    font-size: 50px;
-    color:rgb(255, 255, 255);
-    font-weight: 180;
-    font-family: 'UnifrakturMaguntia', cursive;
-    
+
+}
+.productos-trasition{ 
+    transition: 2s;
+}
+.productos-trasition:hover{
+    transform: scale(1.5);
+}
+.nosotros-trasition{ 
+    transition: 2s;
+}
+.nosotros-trasition:hover{
+    transform: scale(1.5);
+}
+.contactos-trasition{ 
+    transition: 2s;
+}
+.contactos-trasition:hover{
+    transform: scale(1.5);
 }
 
-/*---------correo electronico-------------*/
-.correo {
+.opciones ul li a{
+    text-decoration:none;
+    margin: 10px 15px;
+    color: #F2F0C2;
     font-family: 'Inconsolata', monospace;
-    color: rgb(243, 236, 236);
-    }
-.correo p{
-    display: inline-block;
-    font-weight: 600;
 
 }
-.correo a {
-    font-weight: 600;
-    color:white;
-    background-color: blueviolet;
-
+.opciones ul li a:hover{
+    color: #852b8f;
 }
+
 /*---------hero-------------*/
 
 .hero{
-    text-align:right;
-    font-size: 50px;
-    font-family: 'Inconsolata', monospace;
-    color: white;
-    height: 400px;
+    height: 100vh;
     width: 100%;
-    background-image: url(../Imagen/flama\ vela.jpeg);
-    background-position: center;
+    background: linear-gradient(rgba(84, 3, 87, 0.342), rgba(20, 94, 173, 0.158)), url("../Imagen/flama\ vela.jpeg");
     background-size: cover;
     background-attachment: fixed;
-    
 }
-.tituloproducto{
-    font-size: 40px;
-    color:rgb(0, 0, 0);
-    font-weight: 100;
-    font-family: 'UnifrakturMaguntia', cursive; 
-    display: flex;
-    justify-content: center;
-}
+
+
+
 
 
 
@@ -122,102 +113,71 @@ header h1{
 
 /*---------MAIN-------------*/
 .venta {
-
-    color: white;
-    background-color: rgb(228, 168, 236);
-    padding-bottom: 10px;
+    font-family: 'Inconsolata', monospace;
+    color: #F2F0C2;
+    background-color: #7ecea8;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    width:100%;
-    height: 75vh;
-    border:2px solid black;
-    display: flex;
-    flex-direction: column;
     align-items: flex-start;
     flex-wrap: wrap;
-
+    justify-content: space-evenly;
+    align-items: center;
 }
 
-
-/*!flex productos*/
-.tituloproducto{
+.venta div{
+    width: 325px;
+    height:405px;
+    border-radius:1.5%;
+    border: 2px solid #5f8688;
+    background-color: #47a39759;
+    display:inline-block;
     text-align: center;
-}
-
-.productos{
-
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
+    margin: 10px;
+    padding: 5px;
 
 
 
 }
-
-.ilustracion img{
-    border: 1px solid white;
-    width: 230px;
-    height:230px;
-    margin: 25px;
-    text-align: center;
-    display: inline-block;
-}
-
-.copas img{
-    border: 1px solid white;
+.venta div img{
+    border: 1px solid #F2F0C2;
     width: 250px;
     height:325px;
-    margin: 25px;
-    text-align: center;
-    display: inline-block;
+    margin: 10px;
 }
-.ceramica img{
-    border: 1px solid white;
-    width: 250px;
-    height:325px;
-    margin: 25px;
-    text-align: center;
+.venta div a{
+    color: #F2F0C2;
+    font-family: 'Inconsolata', monospace;
     display: inline-block;
-}
-.cubiertos img{
-    border: 1px solid white;
-    width: 250px;
-    height:325px;
-    margin: 25px;
-    text-align: center;
-    display: inline-block;
-
-}
-
-.manteles img{
-    border: 1px solid white;
-    width: 250px;
-    height:325px;
-    margin: 25px;
-    text-align: center;
-    display: inline-block;
-}
-
-.vela img{
-    border: 1px solid white;
-    width: 250px;
-    height:325px;
-    margin: 25px;
-    text-align: center;
-    display: inline-block;
-
-}
-.productos div a{
-    text-decoration: none;
     background-color: darkmagenta;
-    padding: 5px 5px;
+    padding: 5px;
+    margin: 5px;
+
+    text-decoration: none
+    
+    
 }
-.productos div h3{
-    padding: 5px 5px;
+.tituloProducto{
+    width: 100%;
+    font-size: 40px;
+    font-weight: 100;
+    font-family: 'Inconsolata', monospace; 
+    text-align: center;
+    color: #F2F0C2;
+    background-color: #7ecea8;
+    padding:10px;
+}
+/*---------transiton venta-------------*/
+.venta div {
+    transition: 1s;
+}
+.venta div:hover{
+    transform: scale(1.1);
+    box-shadow: 13px 6px 28px -8px rgba(74,74,74,1);
+    -webkit-box-shadow: 13px 6px 28px -8px rgba(74,74,74,1);
+    -moz-box-shadow: 13px 6px 28px -8px rgba(74,74,74,1);
 }
 
+/*---------whatapp volador-------------*/
 .fixed{
     position: fixed;
     right: 50px;
@@ -229,34 +189,36 @@ header h1{
 }
 
 
-
-
-
 /*---------Footer-------------*/
 footer{
-background: rgb(161,117,166);
-background: linear-gradient(90deg, rgba(161,117,166,1) 0%, rgba(116,169,188,1) 51%, rgba(70,220,209,1) 100%);
-display: flex;
-justify-content: space-between;
-align-items: center;
+    width: 100%;
+    background: linear-gradient(90deg, rgba(161,117,166,1) 0%, rgba(116,169,188,1) 51%, rgba(70,220,209,1) 100%);
 }
-footer div h2{
-    font-size: 40px;
-    color:rgb(0, 0, 0);
-    font-weight: 100;
-    font-family: 'UnifrakturMaguntia', cursive; 
-    display: flex;
-    justify-content: center;
-}
-footer div img{
-    width: 40x;
-    height: 40px;
+footer {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+
 }
+
+.iconos img{
+    width: 40x;
+    height: 40px;
+
+    margin: 20px;
+    
+}
+
 footer iframe{
-    width: 400px;
-    height: 100px;
+
+    width: 300px;
+    height: 80px;
+    margin: 5px;
+    
+
 
 }
